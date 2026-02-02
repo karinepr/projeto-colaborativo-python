@@ -1,0 +1,1 @@
+print("Projeto colaborativo da turma")
