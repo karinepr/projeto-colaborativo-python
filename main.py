@@ -1,1 +1,1 @@
-print("Alteração feita por Amanda")
+print("Alteração feita por Amanda.")
