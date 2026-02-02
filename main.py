@@ -1,1 +1,1 @@
-print("Projeto colaborativo da turma")
+print("João Gabriel mensagem de contribuição ao projeto.")
